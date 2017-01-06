@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site wide configuration
 
 title: Luis Gardea
@@ -58,6 +57,3 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-=======
-theme: jekyll-theme-merlot
->>>>>>> 90f691b530e17fde9eca494b7fed9ef98a247444

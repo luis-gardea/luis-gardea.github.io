@@ -10,8 +10,8 @@ share: true
 
 <div class="container" style="padding-top: 30px;">
   <div id="links">
-      <a href="images/1.jpg" >
-          <img src="images/thumbnail/1.jpg" >
+      <a href="/images/1.jpg" >
+          <img src="/images/thumbnail/1.jpg" >
       </a>
       <a href="images/2.jpg" >
           <img src="images/thumbnail/2.jpg" >

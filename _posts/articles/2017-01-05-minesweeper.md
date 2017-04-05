@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Training a Minesweeper Solver"
-excerpt: "An article to test overriding the default site author."
+excerpt: "A project attempting to solve Minesweeper using various AI and Machine Learning methods."
 categories: articles
-tags: [portfolio, minesweeper]
+tags: [portfolio, minesweeper, machine learning]
 comments: true
 share: true
 ---

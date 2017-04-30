@@ -7,28 +7,47 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://luisfgardea.com/</loc>
-  <lastmod>2014-07-11T07:35:10+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>http://luisgardea.com/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
 </url>
 <url>
-  <loc>http://luisfgardea.com/index.html</loc>
-  <lastmod>2014-07-11T07:35:10+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://luisgardea.com/about/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
 </url>
 <url>
-  <loc>http://luisfgardea.com/about.html</loc>
-  <lastmod>2014-07-11T07:35:10+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://luisgardea.com/resume/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
 </url>
 <url>
-  <loc>http://luisfgardea.com/resume.html</loc>
-  <lastmod>2014-07-11T07:35:10+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://luisgardea.com/portfolio/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
 </url>
 <url>
-  <loc>http://luisfgardea.com/contact.html</loc>
-  <lastmod>2014-07-11T07:35:10+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://luisgardea.com/blog/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://luisgardea.com/search/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://luisgardea.com/blog/guitarproject/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://luisgardea.com/articles/minesweeper/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://luisgardea.com/images/Resume.pdf</loc>
+  <lastmod>2017-04-30T20:46:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://luisgardea.com/tags/</loc>
+  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://luisgardea.com/images/minesweeper.pdf</loc>
+  <lastmod>2017-04-30T20:46:02+00:00</lastmod>
 </url>
 </urlset>

@@ -5,7 +5,8 @@ locale: en_US
 description: Welcome to my personal website!
 # logo: site-logo.png
 search: true
-url: http://luisgardea.com
+url: https://luisgardea.com
+enforce_ssl: luisgardea.com
 
 # Jekyll configuration
 

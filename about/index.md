@@ -12,4 +12,4 @@ I am currently a Software Engineer for Fitbit, as a member of the Fitbit Coach P
 
 I have many interests within software engineering and computer science, not limited to machine learning and artificial intelligence, scalability, microservice architectures, algorithms and applied math. I am always looking to learn more about topics where my knowledge is limited.
 
-Outside of work, I have a wide range of interests not limited to music, basketball, building things (the physical kind), and mechanical watches.
+Outside of work, I have a wide range of interests not limited to music, basketball, building things (the physical kind), mechanical watches, and photography.

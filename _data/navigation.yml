@@ -1,18 +1,10 @@
-# Site navigation links
-- title: Home
-  url: /
-
-- title: About
-  url: /about/
-
-- title: Resume
-  url: /resume
-
-- title: Portfolio
-  url: /portfolio/
-
-- title: Blog
-  url: /blog/
-
-- title: Search
-  url: /search/
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Projects"
+    url: /projects/
+  - title: "Photography"
+    url: /photography/

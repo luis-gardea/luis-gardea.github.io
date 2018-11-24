@@ -1,53 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://luisgardea.com/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/posts/minesweeper/</loc>
+<lastmod>2017-01-05T00:00:00-07:00</lastmod>
 </url>
 <url>
-  <loc>http://luisgardea.com/about/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/posts/guitarproject/</loc>
+<lastmod>2017-04-05T00:00:00-06:00</lastmod>
 </url>
 <url>
-  <loc>http://luisgardea.com/resume/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-  <loc>http://luisgardea.com/portfolio/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/resume/</loc>
 </url>
 <url>
-  <loc>http://luisgardea.com/blog/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/photography/</loc>
 </url>
 <url>
-  <loc>http://luisgardea.com/search/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-  <loc>http://luisgardea.com/blog/guitarproject/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
-  <loc>http://luisgardea.com/articles/minesweeper/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
+<loc>http://localhost:4000/projects/</loc>
 </url>
 <url>
-  <loc>http://luisgardea.com/images/Resume.pdf</loc>
-  <lastmod>2017-04-30T20:46:02+00:00</lastmod>
+<loc>http://localhost:4000/assets/images/minesweeper.pdf</loc>
+<lastmod>2015-12-11T23:22:12-07:00</lastmod>
 </url>
 <url>
-  <loc>http://luisgardea.com/tags/</loc>
-  <lastmod>2017-04-30T20:46:08+00:00</lastmod>
-</url>
-<url>
-  <loc>http://luisgardea.com/images/minesweeper.pdf</loc>
-  <lastmod>2017-04-30T20:46:02+00:00</lastmod>
+<loc>http://localhost:4000/resume/Resume.pdf</loc>
+<lastmod>2018-11-12T10:21:46-07:00</lastmod>
 </url>
 </urlset>

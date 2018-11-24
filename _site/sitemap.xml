@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>http://localhost:4000/posts/minesweeper/</loc>
-<lastmod>2017-01-05T00:00:00-07:00</lastmod>
+  <loc>https://luisgardea.com/</loc>
+  <lastmod>2018-11-24T21:31:57+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://localhost:4000/posts/guitarproject/</loc>
-<lastmod>2017-04-05T00:00:00-06:00</lastmod>
+  <loc>https://luisgardea.com/about/</loc>
+  <lastmod>2018-11-24T21:31:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+  <loc>https://luisgardea.com/resume/</loc>
+  <lastmod>2018-11-24T21:31:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/resume/</loc>
+  <loc>https://luisgardea.com/projects/</loc>
+  <lastmod>2018-11-24T21:31:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/photography/</loc>
+  <loc>https://luisgardea.com/photography/</loc>
+  <lastmod>2018-11-24T21:31:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+  <loc>https://luisgardea.com/posts/</loc>
+  <lastmod>2018-11-24T21:31:57+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://localhost:4000/tags/</loc>
+  <loc>https://luisgardea.com/tags/</loc>
+  <lastmod>2018-11-24T21:31:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-<loc>http://localhost:4000/projects/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/assets/images/minesweeper.pdf</loc>
-<lastmod>2015-12-11T23:22:12-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/resume/Resume.pdf</loc>
-<lastmod>2018-11-12T10:21:46-07:00</lastmod>
-</url>
+
+
 </urlset>

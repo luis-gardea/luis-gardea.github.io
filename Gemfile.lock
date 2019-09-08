@@ -111,6 +111,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.15)
+  ffi (>= 1.9.24)
   minimal-mistakes-jekyll!
   rake (~> 10.0)
 
